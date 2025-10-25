@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am learning full stack development with mern (mongo db , express js, react, node js)<br>also working on agent ai with lang flow lang graph
+# 💫 **About Me**
+
+I’m passionate about building smart, data-driven applications.  
+Currently learning **Machine Learning** and developing projects with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+I’m also working on **Agent AI** workflows using **LangFlow** and **LangGraph**.
 
 
 ## 🌐 Socials:
